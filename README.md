@@ -32,11 +32,11 @@ The Ad Performance Monitoring Dashboard is a web-based analytics tool designed t
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/your-username/github-repositories-explorer.git
+  git clone https://github.com/argadeva/ads-performance-dashboard.git
   ```
 2. Navigate to the project directory:
   ```sh
-  cd github-repositories-explorer
+  cd ads-performance-dashboard
   ```
 3. Install dependencies:
   ```sh
@@ -49,7 +49,7 @@ The Ad Performance Monitoring Dashboard is a web-based analytics tool designed t
   ```sh
   npm run dev
   ```
-2. Open your browser and navigate to `http://localhost:3000`
+2. Open your browser and navigate to `http://localhost:5173`
 
 ## Project Structure
 ```
