@@ -16,7 +16,7 @@ import {
 } from '@/components/ui/Table';
 import type { DataTableProps } from '@/types/data-table';
 
-import { Card, CardContent } from './card';
+import { Card, CardContent } from './Card';
 
 export function DataTable<TData, TValue>({
   columns,
