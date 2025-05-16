@@ -12,7 +12,8 @@
     "format:fix": "prettier --write src/",
     "preview": "vite preview",
     "test": "VITEST_SILENT=true vitest run",
-    "coverage": "VITEST_SILENT=true vitest run --coverage"
+    "coverage": "VITEST_SILENT=true vitest run --coverage",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.13",
@@ -57,6 +58,7 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "eslint-plugin-simple-import-sort": "^12.1.1",
+    "gh-pages": "^6.3.0",
     "globals": "^16.0.0",
     "jsdom": "^26.1.0",
     "postcss": "^8.5.3",
