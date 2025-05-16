@@ -1,0 +1,442 @@
+[
+  {
+    "id": "5",
+    "name": "PT Astra International Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.3,
+    "actual": 1.4,
+    "value": "108%",
+    "date": "2025-05-14",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.4, "impression": 8000, "click": 112 },
+        { "date": "2025-04-30", "ctr": 1.4, "impression": 8500, "click": 119 }
+      ],
+      "contract": {
+        "contractId": "K-005",
+        "start": "2025-04-01",
+        "end": "2025-10-31",
+        "value": "Rp 900.000.000",
+        "description": "Digital marketing campaign untuk promosi kendaraan baru dan layanan purna jual."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "name": "PT Gudang Garam Tbk",
+    "kpiType": "impression",
+    "targetKpi": 25000,
+    "actual": 26000,
+    "value": "104%",
+    "date": "2025-05-14",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 26000, "ctr": 1.2, "click": 312 },
+        { "date": "2025-04-30", "ctr": 1.3, "impression": 26000, "click": 338 }
+      ],
+      "contract": {
+        "contractId": "K-010",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.400.000.000",
+        "description": "Digital campaign untuk promosi produk rokok dan CSR perusahaan."
+      }
+    }
+  },
+  {
+    "id": "16",
+    "name": "PT Jasa Marga Tbk",
+    "kpiType": "impression",
+    "targetKpi": 18000,
+    "actual": 18500,
+    "value": "103%",
+    "date": "2025-05-14",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 18500, "ctr": 1.1, "click": 204 },
+        { "date": "2025-04-30", "ctr": 1.2, "impression": 18500, "click": 222 }
+      ],
+      "contract": {
+        "contractId": "K-016",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.100.000.000",
+        "description": "Digital marketing untuk promosi layanan jalan tol dan aplikasi pembayaran digital."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "name": "PT Telkom Indonesia Tbk",
+    "kpiType": "impression",
+    "targetKpi": 20000,
+    "actual": 21000,
+    "value": "105%",
+    "date": "2025-05-13",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 21000, "ctr": 1.2, "click": 252 },
+        { "date": "2025-04-30", "impression": 21000, "ctr": 1.1, "click": 231 }
+      ],
+      "contract": {
+        "contractId": "K-002",
+        "start": "2025-03-01",
+        "end": "2025-08-31",
+        "value": "Rp 1.200.000.000",
+        "description": "Branding campaign digital untuk meningkatkan awareness layanan internet dan TV interaktif."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "name": "PT Indofood Sukses Makmur Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.8,
+    "actual": 2.0,
+    "value": "111%",
+    "date": "2025-05-13",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 2.0, "impression": 12000, "click": 240 },
+        { "date": "2025-04-30", "ctr": 1.7, "impression": 11000, "click": 187 }
+      ],
+      "contract": {
+        "contractId": "K-007",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": "Rp 2.200.000.000",
+        "description": "Digital campaign awareness dan engagement untuk produk makanan dan minuman."
+      }
+    }
+  },
+  {
+    "id": "13",
+    "name": "PT Bank Tabungan Negara Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.7,
+    "actual": 1.6,
+    "value": "94%",
+    "date": "2025-05-13",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.6, "impression": 9000, "click": 144 },
+        { "date": "2025-04-30", "ctr": 1.8, "impression": 9500, "click": 171 }
+      ],
+      "contract": {
+        "contractId": "K-013",
+        "start": "2025-02-01",
+        "end": "2025-08-31",
+        "value": "Rp 1.000.000.000",
+        "description": "Digital marketing untuk promosi KPR dan tabungan digital."
+      }
+    }
+  },
+  {
+    "id": "20",
+    "name": "PT Indosat Ooredoo Hutchison Tbk",
+    "kpiType": "impression",
+    "targetKpi": 27000,
+    "actual": 28000,
+    "value": "104%",
+    "date": "2025-05-13",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 28000, "ctr": 1.3, "click": 364 },
+        { "date": "2025-04-30", "impression": 27500, "ctr": 1.2, "click": 330 }
+      ],
+      "contract": {
+        "contractId": "K-020",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.200.000.000",
+        "description": "Digital marketing untuk promosi layanan telekomunikasi dan campaign digital nasional."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "name": "PT Unilever Indonesia Tbk",
+    "kpiType": "impression",
+    "targetKpi": 40000,
+    "actual": 41000,
+    "value": "102.5%",
+    "date": "2025-05-12",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 41000, "ctr": 1.6, "click": 656 },
+        { "date": "2025-04-30", "impression": 39000, "ctr": 1.5, "click": 585 }
+      ],
+      "contract": {
+        "contractId": "K-008",
+        "start": "2025-04-01",
+        "end": "2025-10-31",
+        "value": "Rp 1.800.000.000",
+        "description": "Branding dan digital marketing untuk peluncuran produk baru dan promo musiman."
+      }
+    }
+  },
+  {
+    "id": "14",
+    "name": "PT Kalbe Farma Tbk",
+    "kpiType": "impression",
+    "targetKpi": 22000,
+    "actual": 23000,
+    "value": "104%",
+    "date": "2025-05-12",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 23000, "ctr": 1.2, "click": 276 },
+        { "date": "2025-04-30", "impression": 23000, "ctr": 1.3, "click": 299 }
+      ],
+      "contract": {
+        "contractId": "K-014",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.200.000.000",
+        "description": "Digital marketing untuk edukasi produk kesehatan dan kampanye gaya hidup sehat."
+      }
+    }
+  },
+  {
+    "id": "18",
+    "name": "PT Bank Syariah Indonesia Tbk",
+    "kpiType": "impression",
+    "targetKpi": 16000,
+    "actual": 17000,
+    "value": "106%",
+    "date": "2025-05-12",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 17000, "ctr": 1.2, "click": 204 },
+        { "date": "2025-04-30", "impression": 16200, "ctr": 1.3, "click": 211 }
+      ],
+      "contract": {
+        "contractId": "K-018",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.000.000.000",
+        "description": "Digital marketing untuk promosi layanan perbankan syariah dan aplikasi mobile."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "name": "PT Bank Mandiri Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 2.0,
+    "actual": 2.2,
+    "value": "110%",
+    "date": "2025-05-12",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 2.2, "impression": 15000, "click": 330 },
+        { "date": "2025-04-30", "ctr": 2.1, "impression": 14000, "click": 294 }
+      ],
+      "contract": {
+        "contractId": "K-003",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": "Rp 2.000.000.000",
+        "description": "Kontrak tahunan digital marketing untuk promosi aplikasi mobile banking dan produk kredit."
+      }
+    }
+  },
+  {
+    "id": "1",
+    "name": "PT Bank Rakyat Indonesia Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.5,
+    "actual": 1.7,
+    "value": "113%",
+    "date": "2025-05-10",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.7, "impression": 10000, "click": 170 },
+        { "date": "2025-04-30", "ctr": 1.4, "impression": 9000, "click": 126 }
+      ],
+      "contract": {
+        "contractId": "K-001",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "value": "Rp 500.000.000",
+        "description": "Paket digital marketing untuk promosi produk perbankan melalui media sosial dan Google Ads."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "name": "PT Chandra Asri Petrochemical Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.6,
+    "actual": 1.7,
+    "value": "106%",
+    "date": "2025-05-10",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.7, "impression": 9500, "click": 162 },
+        { "date": "2025-04-30", "ctr": 1.7, "impression": 10000, "click": 170 }
+      ],
+      "contract": {
+        "contractId": "K-009",
+        "start": "2025-02-01",
+        "end": "2025-08-31",
+        "value": "Rp 1.100.000.000",
+        "description": "Digital marketing untuk edukasi produk kimia dan sustainability campaign."
+      }
+    }
+  },
+  {
+    "id": "15",
+    "name": "PT Semen Indonesia Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.4,
+    "actual": 1.5,
+    "value": "107%",
+    "date": "2025-05-10",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.5, "impression": 8000, "click": 120 },
+        { "date": "2025-04-30", "ctr": 1.3, "impression": 8500, "click": 111 }
+      ],
+      "contract": {
+        "contractId": "K-015",
+        "start": "2025-04-01",
+        "end": "2025-10-31",
+        "value": "Rp 900.000.000",
+        "description": "Digital marketing untuk promosi produk semen dan solusi konstruksi digital."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "name": "PT Bank Central Asia Tbk",
+    "kpiType": "impression",
+    "targetKpi": 50000,
+    "actual": 52000,
+    "value": "104%",
+    "date": "2025-05-09",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 52000, "ctr": 1.5, "click": 780 },
+        { "date": "2025-04-30", "impression": 48000, "ctr": 1.4, "click": 672 }
+      ],
+      "contract": {
+        "contractId": "K-004",
+        "start": "2025-02-01",
+        "end": "2025-07-31",
+        "value": "Rp 3.000.000.000",
+        "description": "Media placement digital untuk memperluas jangkauan promosi produk tabungan dan kartu kredit."
+      }
+    }
+  },
+  {
+    "id": "12",
+    "name": "PT United Tractors Tbk",
+    "kpiType": "impression",
+    "targetKpi": 35000,
+    "actual": 36000,
+    "value": "103%",
+    "date": "2025-05-09",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 36000, "ctr": 1.4, "click": 504 },
+        { "date": "2025-04-30", "impression": 34000, "ctr": 1.3, "click": 442 }
+      ],
+      "contract": {
+        "contractId": "K-012",
+        "start": "2025-04-01",
+        "end": "2025-10-31",
+        "value": "Rp 1.700.000.000",
+        "description": "Digital marketing untuk promosi alat berat dan solusi konstruksi."
+      }
+    }
+  },
+  {
+    "id": "17",
+    "name": "PT Bukit Asam Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.6,
+    "actual": 1.7,
+    "value": "106%",
+    "date": "2025-05-09",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.7, "impression": 9500, "click": 162 },
+        { "date": "2025-04-30", "ctr": 1.5, "impression": 9000, "click": 135 }
+      ],
+      "contract": {
+        "contractId": "K-017",
+        "start": "2025-02-01",
+        "end": "2025-08-31",
+        "value": "Rp 1.000.000.000",
+        "description": "Digital marketing untuk promosi green mining dan edukasi sustainability."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "name": "PT Bank Negara Indonesia Tbk",
+    "kpiType": "impression",
+    "targetKpi": 30000,
+    "actual": 29500,
+    "value": "98.3%",
+    "date": "2025-05-11",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "impression": 29500, "ctr": 1.3, "click": 384 },
+        { "date": "2025-04-30", "impression": 31000, "ctr": 1.2, "click": 372 }
+      ],
+      "contract": {
+        "contractId": "K-006",
+        "start": "2025-03-01",
+        "end": "2025-09-30",
+        "value": "Rp 1.500.000.000",
+        "description": "Paket digital marketing untuk promosi layanan perbankan syariah dan konvensional."
+      }
+    }
+  },
+  {
+    "id": "11",
+    "name": "PT Adaro Energy Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.9,
+    "actual": 2.1,
+    "value": "110%",
+    "date": "2025-05-11",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 2.1, "impression": 11000, "click": 231 },
+        { "date": "2025-04-30", "ctr": 1.8, "impression": 10500, "click": 189 }
+      ],
+      "contract": {
+        "contractId": "K-011",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "value": "Rp 2.300.000.000",
+        "description": "Digital marketing untuk promosi green energy dan sustainability."
+      }
+    }
+  },
+  {
+    "id": "19",
+    "name": "PT XL Axiata Tbk",
+    "kpiType": "ctr",
+    "targetKpi": 1.5,
+    "actual": 1.6,
+    "value": "107%",
+    "date": "2025-05-11",
+    "details": {
+      "performance": [
+        { "date": "2025-05-01", "ctr": 1.6, "impression": 10000, "click": 160 },
+        { "date": "2025-04-30", "ctr": 1.4, "impression": 9500, "click": 133 }
+      ],
+      "contract": {
+        "contractId": "K-019",
+        "start": "2025-04-01",
+        "end": "2025-10-31",
+        "value": "Rp 900.000.000",
+        "description": "Digital marketing untuk promosi paket data, aplikasi, dan layanan telekomunikasi."
+      }
+    }
+  }
+]
