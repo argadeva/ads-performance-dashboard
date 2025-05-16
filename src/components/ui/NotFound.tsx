@@ -1,6 +1,6 @@
 import { AlertTriangle } from 'lucide-react';
 
-import { Card, CardContent } from './card';
+import { Card, CardContent } from './Card';
 
 export function NotFound({
   message = 'Data tidak ditemukan',

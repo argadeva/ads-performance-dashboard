@@ -58,7 +58,7 @@ vi.mock('@/components/ui/Table', () => ({
   ),
 }));
 
-vi.mock('../card', () => ({
+vi.mock('../Card', () => ({
   Card: ({ children, className }: { children: React.ReactNode; className?: string }) => (
     <div data-testid="card" className={className}>
       {children}
