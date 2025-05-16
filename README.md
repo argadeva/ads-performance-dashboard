@@ -115,7 +115,7 @@ This project structure follows a modular and scalable approach for a React + Typ
 
 The project maintains high test coverage to ensure code quality and reliability. Below is the latest coverage report:
 
-![Test Coverage](./public/unit_tests.png)
+![Test Coverage](./public/unit-tests.png)
 
 You can find detailed coverage reports in the `coverage` directory after running:
 ```sh
