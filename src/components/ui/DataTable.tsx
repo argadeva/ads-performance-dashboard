@@ -33,6 +33,7 @@ export function DataTable<TData, TValue>({
     state: sorting ? { sorting } : {},
     onSortingChange,
     getSortedRowModel: getSortedRowModel(),
+    manualSorting: true,
   });
 
   return (
