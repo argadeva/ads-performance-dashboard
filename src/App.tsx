@@ -30,7 +30,7 @@ function AppRoutes() {
 function App() {
   return (
     <UserEventProvider>
-      <BrowserRouter>
+      <BrowserRouter basename='/ads-performance-dashboard/'>
         <AppRoutes />
       </BrowserRouter>
     </UserEventProvider>
